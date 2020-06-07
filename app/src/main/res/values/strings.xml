@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Emelatour</string>
+    <string name="best_airline_deals">Las mejores tarifas en </string>
+    <string name="airlines">Aerolíneas</string>
+    <string name="avianca">Avianca</string>
+    <string name="latam">LatAm</string>
+    <string name="united">United Airlines</string>
+    <string name="iberia">Iberia</string>
+</resources>

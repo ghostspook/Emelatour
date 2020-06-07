@@ -1,0 +1,2 @@
+rootProject.name='Emelatour'
+include ':app'
