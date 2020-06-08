@@ -217,6 +217,24 @@
                             app:srcCompat="@drawable/cartagena" />
                     </androidx.cardview.widget.CardView>
 
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_weight="1"
+                        app:cardCornerRadius="8dp">
+
+                        <ImageView
+                            android:id="@+id/imageView9"
+                            android:layout_width="190dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:contentDescription="@string/san_andres"
+                            android:scaleType="fitXY"
+                            app:srcCompat="@drawable/san_andres" />
+                    </androidx.cardview.widget.CardView>
+
                 </LinearLayout>
             </HorizontalScrollView>
 
