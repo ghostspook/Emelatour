@@ -176,7 +176,7 @@
                             android:layout_width="139dp"
                             android:layout_height="match_parent"
                             android:layout_weight="1"
-                            android:contentDescription="@string/avianca"
+                            android:contentDescription="@string/medellin"
                             android:scaleType="fitXY"
                             app:srcCompat="@drawable/medellin" />
                     </androidx.cardview.widget.CardView>
