@@ -161,7 +161,7 @@
 
                 <LinearLayout
                     android:layout_width="wrap_content"
-                    android:layout_height="200dp"
+                    android:layout_height="275dp"
                     android:layout_marginTop="20dp"
                     android:orientation="horizontal">
 
@@ -173,12 +173,30 @@
 
                         <ImageView
                             android:id="@+id/imageView6"
-                            android:layout_width="139dp"
+                            android:layout_width="190dp"
                             android:layout_height="match_parent"
                             android:layout_weight="1"
                             android:contentDescription="@string/medellin"
                             android:scaleType="fitXY"
                             app:srcCompat="@drawable/medellin" />
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_weight="1"
+                        app:cardCornerRadius="8dp">
+
+                        <ImageView
+                            android:id="@+id/imageView7"
+                            android:layout_width="190dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:contentDescription="@string/bogota"
+                            android:scaleType="fitXY"
+                            app:srcCompat="@drawable/bogota_2" />
                     </androidx.cardview.widget.CardView>
 
                 </LinearLayout>
