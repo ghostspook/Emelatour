@@ -6,4 +6,6 @@
     <string name="latam">LatAm</string>
     <string name="united">United Airlines</string>
     <string name="iberia">Iberia</string>
+    <string name="lowest_prices_in">Los precios más vajos en</string>
+    <string name="flights">Vuelos</string>
 </resources>
