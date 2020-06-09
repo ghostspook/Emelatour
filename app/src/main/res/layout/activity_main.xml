@@ -358,10 +358,12 @@
                             android:layout_width="370dp"
                             android:layout_height="match_parent"
                             android:layout_weight="1"
+                            android:clickable="true"
                             android:contentDescription="@string/san_andres"
                             android:onClick="onImageClick"
                             android:scaleType="fitXY"
-                            app:srcCompat="@drawable/san_andres_2" />
+                            app:srcCompat="@drawable/san_andres_2"
+                            android:focusable="true" />
                     </androidx.cardview.widget.CardView>
 
                     <androidx.cardview.widget.CardView
