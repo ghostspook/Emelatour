@@ -58,14 +58,14 @@
                         android:id="@+id/textView11"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="@string/four_days"
+                        android:text="@string/promo_sansiraka_days"
                         android:textSize="18sp" />
 
                     <TextView
                         android:id="@+id/textView12"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="@string/three_nights"
+                        android:text="@string/promo_sansiraka_nights"
                         android:textSize="18sp" />
 
                 </LinearLayout>

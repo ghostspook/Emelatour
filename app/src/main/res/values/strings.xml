@@ -20,10 +20,10 @@
     <string name="sansikara">Sansikara</string>
     <string name="promo_sansiraka_title">Producto Emalatour - Promoción - Santa Marta - Sansiraka 2x1 2020-2021</string>
     <string name="promo_sansiraka_description">Si le gusta la historia, la cultura y en especial las actividades en la playa, dese el gusto de vivir unas vacaciones en Sansiraka con su estructura rústica colonial única en El Rodadero.</string>
-    <string name="four_days">4 días</string>
-    <string name="three_nights">3 noches</string>
-    <string name="room_for_two">Acomodación doble</string>
-    <string name="valid_trough">Vigencia:</string>
+    <string name="promo_sansiraka_days">4 días</string>
+    <string name="promo_sansiraka_nights">3 noches</string>
+    <string name="promo_sansiraka_accomodation">Acomodación doble</string>
+    <string name="promo_sansiraka_valid_trough">Vigencia:</string>
     <string name="from">DESDE</string>
     <string name="per_guest_per_stay">(Por persona y por estadía)</string>
     <string name="promo_sansiraka_price">COP233.000,00</string>
