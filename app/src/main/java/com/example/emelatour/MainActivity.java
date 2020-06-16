@@ -21,4 +21,11 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, CancunActivity.class);
         startActivity(intent);
     }
+
+    public void onMexicoCityImageClick(View view)
+    {
+        Log.d("MainActivity", "Image clicked");
+        Intent intent = new Intent(this, MexicoCityActivity.class);
+        startActivity(intent);
+    }
 }

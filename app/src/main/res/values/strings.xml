@@ -36,4 +36,12 @@
     <string name="promo_cancun_accomodation">Acomodación doble</string>
     <string name="promo_cancun_valid_trough">Vigencia:</string>
     <string name="promo_cancun_price">USD 133.00</string>
+    <string name="mexico_city">Ciudad de México</string>
+    <string name="promo_mexico_city_title">Producto Emalatour – Promoción – Ciudad de México 2020–2021</string>
+    <string name="promo_mexico_city_description">Si le gusta la historia, la cultura y en especial las actividades en la playa, dese el gusto de vivir unas vacaciones en Sansiraka con su estructura rústica colonial única en El Rodadero.</string>
+    <string name="promo_mexico_city_days">4 días  &#9728;</string>
+    <string name="promo_mexico_city_nights">3 noches &#127769;</string>
+    <string name="promo_mexico_city_accomodation">Acomodación doble</string>
+    <string name="promo_mexico_city_valid_trough">Vigencia:</string>
+    <string name="promo_mexico_city_price">USD 133.00</string>
 </resources>

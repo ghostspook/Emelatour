@@ -379,9 +379,12 @@
                             android:layout_width="370dp"
                             android:layout_height="match_parent"
                             android:layout_weight="1"
-                            android:contentDescription="@string/santa_martha"
+                            android:clickable="true"
+                            android:contentDescription="@string/mexico_city"
+                            android:onClick="onMexicoCityImageClick"
                             android:scaleType="fitXY"
-                            app:srcCompat="@drawable/mexico_city" />
+                            app:srcCompat="@drawable/mexico_city"
+                            android:focusable="true" />
                     </androidx.cardview.widget.CardView>
 
                     <androidx.cardview.widget.CardView
