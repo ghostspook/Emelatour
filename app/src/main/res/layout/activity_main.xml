@@ -232,7 +232,7 @@
                             android:layout_weight="1"
                             android:contentDescription="@string/san_andres"
                             android:scaleType="fitXY"
-                            app:srcCompat="@drawable/san_andres" />
+                            app:srcCompat="@drawable/santa_martha" />
                     </androidx.cardview.widget.CardView>
 
                 </LinearLayout>
