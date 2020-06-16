@@ -29,26 +29,27 @@
     <string name="promo_sansiraka_price">USD 133.00</string>
     <string name="orlando">Orlando</string>
     <string name="cancun">Cancún</string>
-    <string name="promo_cancun_title">Producto Emalatour – Promoción – Cancún 2020–2021</string>
-    <string name="promo_cancun_description">Si le gusta la historia, la cultura y en especial las actividades en la playa, dese el gusto de vivir unas vacaciones en Sansiraka con su estructura rústica colonial única en El Rodadero.</string>
+    <string name="promo_cancun_title">Producto Emelatour – Promoción – Cancún – 2020–2021</string>
+    <string name="promo_cancun_description">
+Un hotel todo incluído muy cerca de toda la diversión y las mejores atracciones en la zona hotelera de Cancún; en Grand Oasis Cancún vivirás unas vacaciones de lujo frente a una de las playas más hermosas de este destino caribeño. Entre su diverso abanico de opciones, encontrarás presentaciones en vivo que te robarán el aliento, verdaderos momentos de entretenimiento como conciertos, festivales musicales, espectáculos y fiestas tema; todo ello es parte de la experiencia todo incluido.</string>
     <string name="promo_cancun_days">4 días  &#9728;</string>
     <string name="promo_cancun_nights">3 noches &#127769;</string>
     <string name="promo_cancun_accomodation">Acomodación doble</string>
     <string name="promo_cancun_valid_trough">Vigencia:</string>
-    <string name="promo_cancun_price">USD 133.00</string>
+    <string name="promo_cancun_price">USD 250.00</string>
     <string name="mexico_city">Ciudad de México</string>
     <string name="promo_mexico_city_title">Producto Emalatour – Promoción – Ciudad de México 2020–2021</string>
-    <string name="promo_mexico_city_description">Si le gusta la historia, la cultura y en especial las actividades en la playa, dese el gusto de vivir unas vacaciones en Sansiraka con su estructura rústica colonial única en El Rodadero.</string>
+    <string name="promo_mexico_city_description">Visite el centro histórico de la Ciudad de México desde el hotel de cinco estrellas Hilton Mexico City Reforma, ubicado junto a las mayores atracciones arquitectónicas, teatros, embajadas y galerías de arte. A solo 20 minutos en automóvil desde el Aeropuerto Internacional de la Ciudad de México, este hotel de ciudad está convenientemente ubicado cerca de las más concurridas áreas financieras y comerciales. El hotel Hilton Reforma es reconocido como el mejor hotel de la Ciudad de México, nombrado por TripAdvisor el "mejor hotel para los viajeros de negocios" y cuenta con un amplio espacio para eventos y conferencias que puede recibir hasta 5.000 personas cómodamente.</string>
     <string name="promo_mexico_city_days">4 días  &#9728;</string>
     <string name="promo_mexico_city_nights">3 noches &#127769;</string>
     <string name="promo_mexico_city_accomodation">Acomodación doble</string>
     <string name="promo_mexico_city_valid_trough">Vigencia:</string>
-    <string name="promo_mexico_city_price">USD 133.00</string>
-    <string name="promo_cartagena_title">Producto Emalatour – Promoción – Cartagena 2020–2021</string>
-    <string name="promo_cartagena_description">Si le gusta la historia, la cultura y en especial las actividades en la playa, dese el gusto de vivir unas vacaciones en Sansiraka con su estructura rústica colonial única en El Rodadero.</string>
+    <string name="promo_mexico_city_price">USD 198.00</string>
+    <string name="promo_cartagena_title">Producto Emalatour – Promoción – Cartagena de Indias 2020–2021</string>
+    <string name="promo_cartagena_description">Una ciudad de grandes conquistas y conquistadores te espera en el mágico Caribe colombiano. Y desde allí abrimos las puertas en una estratégica torre de hotel ubicada frente a las reconocidas playas de ‘Bocagrande’, donde se divisan unas inigualables vistas de la bahía cartagenera, así como la fusión entre la urbe moderna y la majestuosa ciudad colonial. Aquí el goce y la diversión están asegurados en una esquina caribeña y cosmopolita cargada de mucha historia, y que también te impregnará de su cotidianidad tropical y garcia-marquiana. Durante el día podrás visitar el centro histórico con su colorida arquitectura, sus monumentales murallas y estrechas callejuelas. Y no te olvides de hacer una parada en el Castillo de San Felipe de Barajas, una ‘mamonúa’ edificación que es fiel testigo de las heroicas batallas libradas en la colonia.</string>
     <string name="promo_cartagena_days">4 días  &#9728;</string>
     <string name="promo_cartagena_nights">3 noches &#127769;</string>
     <string name="promo_cartagena_accomodation">Acomodación doble</string>
     <string name="promo_cartagena_valid_trough">Vigencia:</string>
-    <string name="promo_cartagena_price">USD 133.00</string>
+    <string name="promo_cartagena_price">USD 238.00</string>
 </resources>
