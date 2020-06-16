@@ -22,7 +22,7 @@
                 android:adjustViewBounds="true"
                 android:contentDescription="@string/cartagena"
                 android:scaleType="fitCenter"
-                app:srcCompat="@drawable/sansiraka" />
+                app:srcCompat="@drawable/cartagena_decameron" />
 
             <LinearLayout
                 android:layout_width="match_parent"
