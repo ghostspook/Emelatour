@@ -15,10 +15,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void onImageClick(View view)
+    public void onCancunImageClick(View view)
     {
         Log.d("MainActivity", "Image clicked");
-        Intent intent = new Intent(this, PromoActivity.class);
+        Intent intent = new Intent(this, CancunActivity.class);
         startActivity(intent);
     }
 }

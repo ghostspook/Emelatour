@@ -361,7 +361,7 @@
                             android:clickable="true"
                             android:contentDescription="@string/san_andres"
                             android:focusable="true"
-                            android:onClick="onImageClick"
+                            android:onClick="onCancunImageClick"
                             android:scaleType="fitXY"
                             app:srcCompat="@drawable/cancun" />
                     </androidx.cardview.widget.CardView>

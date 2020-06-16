@@ -28,4 +28,12 @@
     <string name="per_guest_per_stay">(Por persona y por estadía)</string>
     <string name="promo_sansiraka_price">USD 133.00</string>
     <string name="orlando">Orlando</string>
+    <string name="cancun">Cancún</string>
+    <string name="promo_cancun_title">Producto Emalatour – Promoción – Cancún 2020–2021</string>
+    <string name="promo_cancun_description">Si le gusta la historia, la cultura y en especial las actividades en la playa, dese el gusto de vivir unas vacaciones en Sansiraka con su estructura rústica colonial única en El Rodadero.</string>
+    <string name="promo_cancun_days">4 días  &#9728;</string>
+    <string name="promo_cancun_nights">3 noches &#127769;</string>
+    <string name="promo_cancun_accomodation">Acomodación doble</string>
+    <string name="promo_cancun_valid_trough">Vigencia:</string>
+    <string name="promo_cancun_price">USD 133.00</string>
 </resources>
