@@ -305,7 +305,7 @@
                             android:layout_weight="1"
                             android:contentDescription="@string/santa_martha"
                             android:scaleType="fitXY"
-                            app:srcCompat="@drawable/santa_martha" />
+                            app:srcCompat="@drawable/santa_martha_2" />
                     </androidx.cardview.widget.CardView>
 
                 </LinearLayout>
@@ -360,10 +360,10 @@
                             android:layout_weight="1"
                             android:clickable="true"
                             android:contentDescription="@string/san_andres"
+                            android:focusable="true"
                             android:onClick="onImageClick"
                             android:scaleType="fitXY"
-                            app:srcCompat="@drawable/san_andres_2"
-                            android:focusable="true" />
+                            app:srcCompat="@drawable/cancun" />
                     </androidx.cardview.widget.CardView>
 
                     <androidx.cardview.widget.CardView
@@ -381,7 +381,7 @@
                             android:layout_weight="1"
                             android:contentDescription="@string/santa_martha"
                             android:scaleType="fitXY"
-                            app:srcCompat="@drawable/santa_martha" />
+                            app:srcCompat="@drawable/mexico_city" />
                     </androidx.cardview.widget.CardView>
 
                 </LinearLayout>
