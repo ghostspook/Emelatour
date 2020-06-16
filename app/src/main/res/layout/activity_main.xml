@@ -285,6 +285,45 @@
                             android:layout_width="400dp"
                             android:layout_height="match_parent"
                             android:layout_weight="1"
+                            android:contentDescription="@string/bogota"
+                            android:scaleType="fitXY"
+                            app:srcCompat="@drawable/bogota" />
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_weight="1"
+                        app:cardCornerRadius="8dp">
+
+                        <ImageView
+                            android:id="@+id/imageView11"
+                            android:layout_width="400dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:clickable="true"
+                            android:contentDescription="@string/cartagena"
+                            android:onClick="onCartagenaImageClick"
+                            android:scaleType="fitXY"
+                            app:srcCompat="@drawable/cartagena_2"
+                            android:focusable="true" />
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_weight="1"
+                        app:cardCornerRadius="8dp">
+
+                        <ImageView
+                            android:id="@+id/imageView15"
+                            android:layout_width="400dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
                             android:contentDescription="@string/san_andres"
                             android:scaleType="fitXY"
                             app:srcCompat="@drawable/san_andres_2" />
@@ -293,13 +332,13 @@
                     <androidx.cardview.widget.CardView
                         android:layout_width="0dp"
                         android:layout_height="match_parent"
+                        android:layout_marginStart="10dp"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="1"
-                        app:cardCornerRadius="8dp"
-                        android:layout_marginStart="10dp">
+                        app:cardCornerRadius="8dp">
 
                         <ImageView
-                            android:id="@+id/imageView11"
+                            android:id="@+id/imageView16"
                             android:layout_width="400dp"
                             android:layout_height="match_parent"
                             android:layout_weight="1"

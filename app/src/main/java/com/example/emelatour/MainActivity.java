@@ -15,6 +15,13 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+    public void onCartagenaImageClick(View view)
+    {
+        Log.d("MainActivity", "Image clicked");
+        Intent intent = new Intent(this, CartagenaActivity.class);
+        startActivity(intent);
+    }
+
     public void onCancunImageClick(View view)
     {
         Log.d("MainActivity", "Image clicked");
